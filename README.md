@@ -1,2 +1,2 @@
 # My First Github
-My test repository.
+My first repository.
